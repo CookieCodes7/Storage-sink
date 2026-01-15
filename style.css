@@ -4,8 +4,17 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.logo{
+    color: antiquewhite;
+    text-align: left;
+  padding: 15px 24px;
+  text-decoration: none;
+  font-size: 17px;
+    
+}
 .topnav {
-  background-color: #333;
+  background-color: #000000;
   overflow: hidden;
   margin: 0;
   padding: 0;
@@ -29,6 +38,6 @@ body{
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #8304aa;
   color: white;
 }
